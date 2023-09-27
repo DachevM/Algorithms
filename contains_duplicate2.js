@@ -10,5 +10,5 @@ const containsDuplicate = function(nums) {
             return true
         }
     }
-return false
+    return false
 };
